@@ -1,1 +1,4 @@
-### Hi,I am Oğuz 👋
+### Hi, I am Oğuz 👋
+
+I am a Junior Frontend Developer.
+
